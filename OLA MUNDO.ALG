@@ -11,5 +11,6 @@ Var
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 escreval ("Ola mundo!")
+escreval ("Bom dia Henrique")
 
 Fimalgoritmo
